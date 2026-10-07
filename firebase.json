@@ -1,0 +1,8 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-android-myra-36bba4eb-1acc-4706-9c07-70306f3f522e",
+      "rules": "firestore.rules"
+    }
+  ]
+}

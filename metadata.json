@@ -1,0 +1,6 @@
+{
+  "name": "MYRA",
+  "description": "Ultimate Advanced AI Companion & Voice Assistant with Owner Security, Voice Studio, Emotion Engine, and Memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
